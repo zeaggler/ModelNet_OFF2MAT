@@ -2,10 +2,7 @@
 
 This code can be used to generate voxelized 3D mat files  with different views from ModelNet10 or 40. 
 
-The code is revised by me, but I forget the original author......
 
-SO SORRY !!!
-Any questions, Let Me Know, thanks....
 
 ---
 
@@ -27,3 +24,12 @@ For ModelNet10, you can directly run ModelNet10_off2mat.m
 
 For ModelNet40, you can directly run ModelNet40_off2mat.m
 
+
+
+
+
+---
+The code is revised by me, but I forget the original author......
+
+SO SORRY !!!
+Any questions, Let Me Know, thanks....
