@@ -12,8 +12,11 @@ Any questions, Let Me Know, thanks....
 * PARAMETERS:
 
 volume_size: the output volume size is 300*300*300
+
 angle_inc:   the multiview images are generated based on equal angle-interval sampling, the total num of images from one .OFF is 360/angle_inc
+
 off_path:    the path of ModelNet10
+
 mat_path:    the path of output voxelized mat files
 
 
